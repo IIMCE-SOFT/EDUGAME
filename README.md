@@ -59,3 +59,23 @@
 ## Источники и справочники
 Проекты, которые нас вдохновили
 SubwaySurf.
+## Пример кода 
+
+```С++
+#include "Header.h"
+#include "stdio.h"
+#include "stdlib.h"
+
+#define NOT_INITIALIZATE -1
+
+//timer
+int gl_time = 0;
+int MAXH, MAXW, WHSIZE, WWSIZE;
+#define MAX_BUILDERS 6
+#define MAX_ROADT 2
+
+SDL_Texture* road_tmpt = NULL;
+SDL_Texture* hudt = NULL;
+SDL_Texture* mn = NULL;
+SDL_Texture* fog_t = NULL;
+```
