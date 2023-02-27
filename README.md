@@ -12,6 +12,7 @@
 
 **Скриншот рабочего окна приложения**: 
 Неготов
+
 ![](https://github.com/IIMCE-SOFT/EDUGAME/blob/main/docs/photo_5366253116422471922_y.jpg?raw=true)
 
 
