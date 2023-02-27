@@ -12,7 +12,7 @@
 
 **Скриншот рабочего окна приложения**: 
 Неготов
-![](https://aw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
+![](https://github.com/IIMCE-SOFT/EDUGAME/blob/main/docs/photo_5366253116422471922_y.jpg?raw=true)
 
 
 ## Зависимости
