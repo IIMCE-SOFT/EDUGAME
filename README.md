@@ -61,7 +61,7 @@
 SubwaySurf.
 ## Пример кода 
 
-```C
+```C++
 #include "Header.h"
 #include "stdio.h"
 #include "stdlib.h"
